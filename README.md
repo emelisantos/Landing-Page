@@ -15,7 +15,7 @@ LinkedIn: Connect with me on LinkedIn.
 Portfolio: View my portfolio to see samples of my work.
 
 # Installation
-To view this landing page locally, clone this repository and open the index.html file in your web browser.
+To view this landing page locally, clone this repository and open the index.html file in your web browser. Or simply look up https://emelisantos.github.io/Landing-Page/
 
 Copy code
 git clone https://github.com/emelisantos/Landing-Page.git
